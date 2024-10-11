@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello there! 🍁💫
 
-<!--
-**aanushkaguptaa/aanushkaguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m Anushka, an undergraduate full-stack developer based in India, actively exploring Machine Learning. I am proficient in building full-stack websites. 
+[View my portfolio here](https://zuuzuu.notion.site/Hi-I-m-Anushka-269ca0c0e7634ea78a052ddd82a23bc3)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### **Languages**
+- Java
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### **Frameworks and Libraries**
+- Express.js
+- Flask
+- Bootstrap
+- React
+
+### **Technologies**
+- Node.js
+- RESTful APIs
+
+### **Databases**
+- MySQL
+- MongoDB
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/anushka-gupta-here/)
+- [Email](mailto:anushkayol001@gmail.com)
