@@ -1,7 +1,7 @@
 # Hello there! 🍁💫
 
 ### I’m Anushka, an undergraduate full-stack developer based in India, actively exploring Machine Learning. I am proficient in building full-stack websites. 
-[View my portfolio here](https://zuuzuu.notion.site/Hi-I-m-Anushka-269ca0c0e7634ea78a052ddd82a23bc3)
+[View my portfolio here](https://anushkacreates.vercel.app/)
 
 ---
 
